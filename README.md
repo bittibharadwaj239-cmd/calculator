@@ -39,10 +39,6 @@ calculator/
 
 No installation or additional software is required.
 
-## 📸 Screenshot
-
-You can add a screenshot of your calculator here.
-
 Example:
 
 ```
